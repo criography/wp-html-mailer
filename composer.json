@@ -1,0 +1,14 @@
+{
+    "name": "crio/wpmail-proper-html",
+    "description": "A light (somehow messy) 15 mins hack to serve HTML and plain-text emails from WP.",
+    "type": "wordpress-plugin",
+    "license": "GPLv2 or later",
+    "authors": [
+        {
+            "name": "criography",
+            "email": "reg@criography.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
