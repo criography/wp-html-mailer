@@ -2,7 +2,7 @@
 	/*
 	Plugin Name: WP_MAIL Multipart HTML Emails
 	Description: Makes sure that HTML emails contain plain-text as well
-	Version: 1.0.3
+	Version: 1.0.4
 	Author: Marek Lenik
 	Author URI: http://criography.com
 	Plugin URI: http://aardvarklondon.com
